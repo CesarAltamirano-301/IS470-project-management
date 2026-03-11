@@ -11,7 +11,7 @@ Sprint 2 (in progress / not delivered yet):
 - CIA-7 Start focus timer (2 points)
 
 Screenshot evidence:
-![Sprint progress](evidence/sprint-progress.png)
+![Sprint progress](/sprint-progress.png)
 
 ## 2) Product burndown chart
 
