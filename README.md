@@ -1,27 +1,27 @@
 # IS470 Project Management
 
-This repository contains materials for my IS 470 Project Management class project. It is being used to organize project planning, documentation, backlog items, sprint materials, and other course-related deliverables.
+This repository serves as the main workspace for my IS 470 Project Management class project. It includes planning documents, backlog items, sprint materials, and other project artifacts developed throughout the course.
 
-## Purpose
+## Overview
 
-The purpose of this repository is to keep my project work organized in one place throughout the course. It may include planning documents, project artifacts, draft materials, and other files related to the development and management of my class project.
+The goal of this repository is to organize and track the work associated with my class project from initial planning through final wrap-up. It acts as a central location for course deliverables and project management materials.
 
-## Contents
+## Included Materials
 
-This repository may include:
+Examples of materials in this repository may include:
 
-- Project planning documents
-- Feature backlog items
+- Project idea and scope documents
+- Feature backlog
+- Project charter
 - Sprint planning materials
-- Project charter documents
-- Notes and supporting files
-- Final project summary materials
+- Supporting notes and drafts
+- Final summary or reflection
 
-## Course Information
+## Course Details
 
 - **Course:** IS 470 Project Management
-- **Repository Name:** IS470-project-management
+- **Repository:** IS470-project-management
 
-## Notes
+## Disclaimer
 
-This repository is intended for course use and project organization throughout the term.
+This repository was created for academic use as part of coursework in IS 470.
