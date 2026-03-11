@@ -22,7 +22,7 @@ Notes:
 - Sprint 1 ends at 31 points remaining (8 points completed).
 - Forecast line shows a simple projection by sprint.
 
-## 3) Sprint retrospective (journal entry)
+## 3) Sprint retrospective
 
 ### What went well
 The planning setup is solid. I have a clear backlog, story point estimates, success criteria, and subtasks. Sprint 1 scope was realistic and the burndown setup is now organized by sprint with a forecast, which matches the feedback I got.
